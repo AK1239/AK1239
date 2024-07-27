@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://raw.githubusercontent.com/AK1239/AK1239/main/b2f77e26f28685a51fb7686a39d97a526e03edc3-1456x816.webp)
 <h1 align="center">Hi 👋, I'm Akil Khatri</h1>
 <h3 align="center">A passionate sofware developer from Tanzania</h3>
 
