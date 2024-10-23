@@ -1,5 +1,5 @@
 ## 💫 About Me:
-📚 I'm currently learning Django<br>🎯 Goals: Launch a web app so good, even my shop visitors start coding.
+💻 Full Stack Software Developer From Tanzania<br>📚 I'm currently learning Django<br>🎯 Goals: Launch a web app so good, even my shop visitors start coding.
 
 
 ## 💻 Tech Stack:
