@@ -1,4 +1,4 @@
-<div style="margin-left: 20px;">
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -58,6 +58,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-</div>
+
 
 ###
